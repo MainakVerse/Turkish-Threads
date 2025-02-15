@@ -1,8 +1,9 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable import/order */
 import { useRef, FC, useEffect, useState } from 'react';
-
+import Wave from './Wave';
 import { CanvasContext } from '../hooks/useCanvas';
 import useResponsiveSize from '../hooks/useResponsiveSize';
-import Wave from './Wave';
 
 const Canvas: FC = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
