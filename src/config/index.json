@@ -1,0 +1,112 @@
+{
+  "company": {
+    "name": "Turkish Threads",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Get the Exquisite",
+    "subtitle": "Turkish Rags",
+    "description": "Turkish rags are known for their high quality due to the unique properties of Turkish cotton. This cotton has long fibers, making the rags soft, absorbent, and durable. They are often used for cleaning and polishing due to their low-lint and non-abrasive nature. Additionally, Turkish rags are lightweight and dry quickly, making them a practical choice for various cleaning tasks.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:mainakchaudhuri671@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "From the town of Dirilis Ertugrul ",
+    "items": [
+      {
+        "title": "The Quality that the World knows",
+        "description": "Turkish rags owe their world-renowned quality to the unique characteristics of Turkish cotton. This cotton variety boasts extra-long fibers, a key factor that sets it apart from other types of cotton. These longer fibers result in fewer joins in the weave of the fabric, creating a smoother, softer, and more durable end product. The long fibers also contribute to the exceptional absorbency of Turkish rags. The fabric's structure allows it to soak up moisture efficiently, making it ideal for various cleaning tasks. Additionally, Turkish cotton is known for its quick-drying properties, preventing the rags from becoming damp and potentially harboring mildew or bacteria. Another noteworthy aspect of Turkish rags is their low-lint nature. The long fibers minimize shedding, ensuring that the rags leave behind minimal residue during use.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Make Your Sleep Comfortable",
+        "description": "Turkish rags, often made from the same high-quality Turkish cotton used in towels, are renowned for their exceptional comfort and warmth. The long fibers of this cotton create a soft, plush texture that feels gentle against the skin. This makes Turkish rags ideal for use as blankets, throws, or even clothing items, providing a cozy and comforting experience.The unique weave of Turkish textiles also contributes to their warmth. The fabric is often tightly woven, which helps to trap heat and keep you warm. Additionally, Turkish rags are lightweight and breathable, preventing you from feeling overheated or stuffy. Whether used for snuggling on the couch or adding an extra layer on a chilly night, Turkish rags offer a delightful combination of comfort and warmth.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "Why should you buy a Turkish Rag or a Turkish Blanket for this winter.",
+    "items": [
+      {
+        "name": "Thick Threaded",
+        "description": "Thick threaded blankets offer superior warmth due to their dense weave, trapping more air and insulating effectively. They are also generally more durable and long-lasting than thinner blankets.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Superior Quality",
+        "description": "Superior quality blankets offer enhanced comfort and durability. They are often made from premium materials like high-grade cotton or wool, providing a softer feel and better insulation. These blankets are designed to last longer, withstanding regular use and washing without losing their quality.",
+        "icon": "/assets/images/tailwindcss.png"
+      },
+      {
+        "name": "Comfortable",
+        "description": "Turkish blankets offer superior comfort due to their unique cotton fibers.  These long fibers create a plush, soft texture that feels luxurious against the skin.  Combined with their breathability, Turkish blankets provide warmth without overheating, making them ideal for cozy relaxation.",
+        "icon": "/assets/images/nextjs.png"
+      },
+      {
+        "name": "Carefully Shipped",
+        "description": "Careful shipping protects Turkish blankets from damage during transit.  Proper packaging prevents snags, tears, and dirt accumulation, preserving the blanket's quality and ensuring it arrives in pristine condition for the customer to enjoy.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  
+  "about": {
+    "sections": [
+      {
+        "name": "About",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Features",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Pricing",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Contact",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/MainakVerse",
+      "twitter": "https://twitter.com/iwasbornmainak",
+      "linkedin": "https://www.linkedin.com/in/mainak-chaudhuri-127898176/"
+    }
+  }
+}
