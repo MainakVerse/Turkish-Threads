@@ -1,3 +1,7 @@
 [build]
-  publish = "out"
   command = "npm run build-prod"
+  publish = "out"
+  environment = { NODE_VERSION = "20" } # Or latest LTS version
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
