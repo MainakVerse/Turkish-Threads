@@ -1,6 +1,7 @@
 [build]
   command = "npm run build-prod"
   publish = "out"
+  node_version = "18.x"
 
 
 [[plugins]]
