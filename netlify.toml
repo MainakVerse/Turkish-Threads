@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build-prod"
+  command = "npm run build"
   publish = "out"
   node_version = "18.x"
 
